@@ -5,15 +5,15 @@ public class DoublyLinkedLiseApp {
 	public static void main(String[] args) throws Exception {
 		
 		DoublyLinkedList<Integer> myDList = new DoublyLinkedList<Integer>();
-//		myDList.addFirst(8);
-//		myDList.addFirst(1);
-//		myDList.addFirst(9);
-//		myDList.addFirst(7);
-//		myDList.addFirst(0);
-//		myDList.addFirst(2);
-//		myDList.addAt(0, 8);
-//		myDList.addAt(1, 1);
-//		myDList.addAt(2, 9);
+		myDList.addFirst(8);
+		myDList.addFirst(1);
+		myDList.addFirst(9);
+		myDList.addFirst(7);
+		myDList.addFirst(0);
+		myDList.addFirst(2);
+		myDList.addAt(0, 8);
+		myDList.addAt(1, 1);
+		myDList.addAt(2, 9);
 		myDList.addAt(0, 1);
 		//myDList.addAt(1, 2);
 		
